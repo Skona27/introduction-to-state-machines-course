@@ -26,5 +26,6 @@ Projects from course are listed below:
 * video player - https://codesandbox.io/s/video-player-9f1uk
 * fetch machine - https://codesandbox.io/s/fetch-machine-ut8oj
 * search machine - https://codesandbox.io/s/search-machine-m6znh
+* search machine with typescript - https://codesandbox.io/s/searchmachine-typescript-fdpn4?file=/src/App.tsx
 
 Code for those projects is also available inside this repository
